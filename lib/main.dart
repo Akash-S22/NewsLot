@@ -90,7 +90,7 @@ class NewsAppState extends State<NewsApp> {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'News API',
+      title: 'NewsLot',
       home: Scaffold(
         appBar: AppBar(
           title: Text('News API',
