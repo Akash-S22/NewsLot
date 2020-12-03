@@ -1,16 +1,18 @@
-# NewsApi
+# NewsLot
 
-A new Flutter project.
+Search worldwide news with NewsLot
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Get breaking news headlines, and articles from news sources and blogs all over the web at one place.
 
-A few resources to get you started if this is your first Flutter project:
+Resources used to create NewsLot :
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [Flutter](https://flutter.dev/)
+- [NewsApi](https://newsapi.org/)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Get NewsLot
+
+[Download NewsLot APK](https://drive.google.com/file/d/1PGxvRDvgGgpjr87fdWTov302t95UrDHs/view?usp=sharing)
+
+##### Note: Please make sure your Google Play Protect is disabled while installing the app.. As it may block installing apps from apk. You can enable it back as soon as installation is complete.
