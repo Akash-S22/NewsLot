@@ -11,7 +11,7 @@ part 'get_news.g.dart';
 @RestApi(baseUrl: "https://newsapi.org/v2")
 abstract class FetchNews {
   factory FetchNews(Dio dio) = _FetchNews;
-  @GET("/top-headlines?country=in&apiKey=10d4f658d9174a68ad6b03e6851dd586")
+  @GET("/top-headlines?country=in&apiKey= <Your ApiKey> ")
   Future<Data> getNews();
 }
 
