@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## Getting Started
 
-You can use the [editor on GitHub](https://github.com/Akash-S22/NewsLot/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Get breaking news headlines, and articles from news sources and blogs all over the web at one place.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Resources used to create NewsLot :
 
-### Markdown
+- [Flutter](https://flutter.dev/)
+- [NewsApi](https://newsapi.org/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Get NewsLot
 
-```markdown
-Syntax highlighted code block
+[Download NewsLot APK](https://drive.google.com/file/d/1PGxvRDvgGgpjr87fdWTov302t95UrDHs/view?usp=sharing)
 
-# Header 1
-## Header 2
-### Header 3
+##### Note: Please make sure your Google Play Protect is disabled while installing the app.. As it may block installing apps from apk. You can enable it back as soon as installation is complete.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## Things To Do
 
-**Bold** and _Italic_ and `Code` text
+Before running/using the code, Please change these things,
 
-[Link](url) and ![Image](src)
-```
+- Goto get_news.dart and enter your ApiKey.
+- Open terminal and navigate inside NewsLot project.
+- Run "flutter pub get" to get packages.
+- Run "flutter pub run build_runner run" to generate get_news.g.dart file for Retrofit and Hive
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+That's it your code must be ready with no errors.
 
-### Jekyll Themes
+## Get Connected With Me On
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Akash-S22/NewsLot/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Email : As99281@gmail.com
+- Instagram : [Akash S](https://www.instagram.com/_.akash_s._/)
